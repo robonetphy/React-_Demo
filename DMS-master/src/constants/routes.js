@@ -1,0 +1,10 @@
+export const LOGIN = "/";
+export const SOP_HOME = "/sop";
+export const LMS_HOME = "/lms";
+export const LMS_PPT = "/lms_ppt";
+export const LMS_Q1 = "/lms_q1";
+export const LMS_Q2 = "/lms_q2";
+export const HOME = "/home";
+export const DOC = "/doc";
+export const SOPForm = "/sop_form";
+export const SOPForm2 = "/sop_form2";
